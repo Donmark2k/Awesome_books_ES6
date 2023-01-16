@@ -117,7 +117,7 @@ After you're finished please remove all the comments and instructions!
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://donmark2k.github.io/Awesome_books/)
+- [Live Demo Link](https://donmark2k.github.io/Awesome_books_ES6/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -147,7 +147,7 @@ Example command:
 ### Setup
 
 Clone this repository to your desired folder:
-https://github.com/Donmark2k/Awesome_books.git
+https://github.com/Donmark2k/Awesome_books_ES6.git
 
 Example commands:
 
@@ -160,7 +160,7 @@ Example commands:
 
 Install this project with:
 - cd my-folder
--  git clone https://github.com/donmark2k/Awesome_books.git
+-  git clone https://github.com/donmark2k/Awesome_books_ES6.git
 
 install npx
 
