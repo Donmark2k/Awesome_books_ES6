@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="stylesheet" href="index.css" />
+    <title>Awesome books</title>
+  </head>
+  <body>
+
+      <nav>
+          <div><a class="logo" href="index.html">Awesome Books</a></div>
+          <ul class ="menu">
+              <li><a href="#" id="list-link">List</a></li><span>|</span>
+              <li><a href="#" id="add-link">Add</a></li><span>|</span>
+              <li><a href="#" id="contact-link">Contact</a></li>
+          </menu>
+        </nav>
+
+        <div class="date" id="date"></div>
+
+    <section class="list-section" id="list">
+      <h1>All awesome Books</h1>
+      <div id="book-list"></div>
+    </section>
+
+
+    <section id="add-book"class="add-section">
+      <h2>Add a new Book</h2>
+      <form id="book-form" method="post" >
+        <label for="title"></label>
+        <input id="title" type="text" placeholder="title" required />
+        <label for="author"></label>
+        <input id="author" type="text" placeholder="author" required />
+        <button type="button" id="add-btn">Add</button>
+      </form>
+      <p id="message"></p>
+    </section>
+
+    <section class="contact-section ">
+        <h2>Contact Information</h2>
+        <p>
+          Do you have any questions or you just want to say "hello" ? <br />You can
+          reach out to us
+        </p>
+        <ul>
+          <li>Our E-mail: chukwuemekavp@gmail.com</li>
+          <li>Our Phone number: +234-706-3308-955</li>
+          <li>
+            Our Address: No. 1 Bayo Akintude Street Coker, Lagos State
+            Nigeria
+          </li>
+        </ul>
+      </section>
+      <footer>Copyright      ...</footer>
+
+      <script type="module" src="index.js"></script>
+    </body>
+</html>
