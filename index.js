@@ -8,10 +8,10 @@ showList();
 showAdd();
 showContact();
 
-setInterval(()=>{
+setInterval(() => {
   const currentDate = DateTime.now().toLocaleString(DateTime.DATETIME_MED);
   document.getElementById('date').innerHTML = currentDate;
-},1000);
+}, 1000);
 
 function printBooks() {
   const shelf = JSON.parse(localStorage.getItem('shelf')) || [];
