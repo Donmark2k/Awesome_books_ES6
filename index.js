@@ -9,7 +9,7 @@ showList();
 showAdd();
 showContact();
 
-// Display the time 
+// Display the time
 setInterval(() => {
   const currentDate = DateTime.now().toLocaleString(DateTime.DATETIME_MED);
   document.getElementById('date').innerHTML = currentDate;
@@ -47,7 +47,7 @@ function printBooks() {
 
   booklist.innerHTML = innerhtml;
 
-// Delete the book in the array.
+  // Delete the book in the array.
   shelf.forEach((book, index) => {
     const removeBtn = document.getElementById(`remove-btn${index}`);
     removeBtn.addEventListener('click', () => {
