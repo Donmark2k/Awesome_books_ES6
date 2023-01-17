@@ -27,9 +27,7 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
+  
   <h3><b>Microverse README Template</b></h3>
 
 </div>
@@ -255,9 +253,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+[Victor Chiemerie](https://github.com/Victor-chiemerie) has been of tremendous help so far.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -265,7 +261,7 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank...
+I would like to appreciate [Microverse](https://www.microverse.org/) for providing the resources and the platform for us to be a Professional full-stack developer.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -275,13 +271,14 @@ I would like to thank...
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[Question_1]**
+- **[Are you sure that you are owner of this work]**
 
-  - [Answer_1]
+  - [Yes, I am]
 
-- **[Question_2]**
+- **[Can you make the work to be responsive]**
 
-  - [Answer_2]
+  - [yes]
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
